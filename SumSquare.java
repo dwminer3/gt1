@@ -12,5 +12,6 @@ sum = sum + (three * three);
 System.out.printf("Cumulation result: %-8d%4s%8d%8s%8d\n" , sum ,":" , three , "*" , three);
 three = three + 3;
 }
+ 
 }
 }
