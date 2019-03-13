@@ -13,5 +13,7 @@ System.out.printf("Cumulation result: %-8d%4s%8d%8s%8d\n" , sum ,":" , three , "
 three = three + 3;
 }
  
+System.out.println("The SUM of square of multiples of 3 is " + sum);
+ 
 }
 }
